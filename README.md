@@ -3,7 +3,7 @@
 **A modern, feature-rich QR code scanner webapp designed to make scanning QR codes quick and effortless - with 100% local processing for complete privacy.**
 
 <p align="center">
-  <img src="screenshots/scanner-demo.png" alt="QR Code Scanner Interface" width="300">
+  <img src="screenshot.png" alt="QR Code Scanner Interface" width="300">
 </p>
 
 ## 🔗 [QR Code Scanner](https://qrcodescanner.co)
