@@ -61,22 +61,6 @@
 - Works on iOS and Android devices
 - Install as a PWA for app-like experience
 
-## 🚀 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/qr-code-scanner.git
-
-# Navigate to project directory
-cd qr-code-scanner
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
-
 ## 🔧 Usage
 
 1. **Direct Camera Scanning**:
