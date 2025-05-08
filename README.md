@@ -6,7 +6,7 @@
   <img src="screenshot.png" alt="QR Code Scanner Interface" width="300">
 </p>
 
-## Demo 
+## 🚀 Demo 
 
 [QR Code Scanner](https://qrcodescanner.co)
 
